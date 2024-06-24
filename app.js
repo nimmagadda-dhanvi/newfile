@@ -39,7 +39,7 @@ const quizArray = [
     id: "3",
     question: "what weather dose dhanvi like?",
     options: ["summer","winter","rainy","none of the above",],
-    correct: "none of the above",
+    correct: "rainy",
 
   }
 ];
